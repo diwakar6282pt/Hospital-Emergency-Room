@@ -20,4 +20,5 @@ The goal of this project is to design and develop an interactive Hospital Emerge
 8. Department Referral Count-	            Number of patients referred to different hospital departments (e.g., Cardiology, Orthopedics).
 9. Monthly Trend Comparison-	              Selection between yearly data (2023 vs 2024) and monthly navigation (Jan–Dec).
 
+- Dashboard Interaction<a href="https://github.com/diwakar6282pt/Hospital-Emergency-Room/blob/main/Screenshot%202025-06-06%20130447.png">View Dashboard</a>
 
