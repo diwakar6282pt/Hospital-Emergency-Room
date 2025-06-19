@@ -36,8 +36,12 @@ Update Regularly with new data for ongoing performance monitoring.
 
 ![Screenshot 2025-06-06 130447](https://github.com/user-attachments/assets/7e63bcb9-2a23-4e95-b22f-c40f40a53927)
 
+## INSIGHT
 
+This dashboard gives a clear view of emergency room performance by tracking patient volume, wait times, satisfaction, and admission trends. It helps hospital staff make quick, informed decisions, improve service efficiency, and enhance patient care through real-time, data-driven insights.
 
+## FINAL CONCLUSION
 
+The Hospital ER Dashboard effectively visualizes key metrics to monitor and improve emergency room operations, enabling faster decisions, better resource management, and enhanced patient care.
 
 
