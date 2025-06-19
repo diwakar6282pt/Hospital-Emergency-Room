@@ -22,3 +22,18 @@ The goal of this project is to design and develop an interactive Hospital Emerge
 
 - Dashboard Interaction<a href="https://github.com/diwakar6282pt/Hospital-Emergency-Room/blob/main/Screenshot%202025-06-06%20130447.png">View Dashboard</a>
 
+## PROCESS
+
+Collect Data from hospital systems on patients, wait times, satisfaction, and referrals.
+
+Clean and Prepare Data by formatting dates, categorizing age groups, and handling missing values.
+
+Calculate KPIs such as total patients, average wait time, admission rate, and satisfaction score.
+
+Design the Dashboard using charts (bar, pie, cards) to visualize metrics clearly.
+
+Add Filters and Interactivity like month/year selectors for dynamic reporting.
+
+Review with Stakeholders to ensure accuracy and usefulness.
+
+Update Regularly with new data for ongoing performance monitoring.
